@@ -1,2 +1,2 @@
-# ChestXray-Classification-by-DeepLearning-
+# ChestXray-Classification-by-DeepLearning
 Pneumonic Chest XRay data is classified by the project
